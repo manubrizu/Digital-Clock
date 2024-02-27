@@ -1,7 +1,8 @@
+const dayjs = require("dayjs");
+
 let hrs = document.querySelector('.hrs');
 let min = document.querySelector('.min');
 let sec = document.querySelector('.sec');
-
 
 
 setInterval(()=>{
